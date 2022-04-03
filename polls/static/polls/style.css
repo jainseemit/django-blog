@@ -1,0 +1,9 @@
+li a {
+    color: green;
+}
+body {
+    background: white url("images/bg3.jfif") ;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
